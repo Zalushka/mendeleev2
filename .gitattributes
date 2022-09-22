@@ -1,2 +1,46 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table,td {
+    border-collapse: collapse;}
+    </style>
+</head>
+<body>
+    <style>
+        body { background: url(https://img.freepik.com/free-photo/gray-painted-background_53876-94041.jpg?w=2000); }
+      </style>
+    <center>
+    <table border="1"bordercolor="white">
+        <center>
+            <tr>
+                <td style="width: 100px"><h1 style="color: yellow"><Center>H ¹</Center></h1></td>
+                <td style="width: 100px"><h1 style="color: yellow"><Center>Cl ¹⁷</Center></h1></td>   
+                <td style="width: 100px"><h1 style="color: greenyellow"><Center>Ti ²²</Center></h1></td>   
+                <td style="width: 100px"><h1 style="color: greenyellow"><Center>Zn ³⁰</Center></h1></td>   
+                <td style="width: 100px"><h1 style="color: greenyellow"><Center>Na ¹¹</Center></h1></td>   
+            </tr>
+        </center>
+        <tr>
+            <td><h2 style="color: yellow"><Center>Водород</Center></h2></td>
+            <td><h2 style="color: yellow"><cEnter>Хлор</cEnter></h2></td>
+            <td><h2 style="color: greenyellow"><cEnter>Титан</cEnter></h2></td>
+            <td><h2 style="color: greenyellow"><cEnter>Цинк</cEnter></h2></td>
+            <td><h2 style="color: greenyellow"><cEnter>Натрий</cEnter></h2></td>
+        </tr>
+        <tr>
+            <td><h3 style="color: yellow"><center>1.00794</center></h3></td>
+            <td><h3 style="color: yellow"><center>35.453</center></h3></td>
+            <td><h3 style="color: greenyellow"><center>47.90</center></h3></td>
+            <td><h3 style="color: greenyellow"><center>65.39</center></h3></td>
+            <td><h3 style="color: greenyellow"><center>22.99</center></h3></td>
+        </tr>
+    </center>
+</H2>
+</table>
+</body>
+</html>
